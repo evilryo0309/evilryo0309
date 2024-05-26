@@ -1,6 +1,6 @@
-- 👋 Hi, I’m John Ho.
+- 👋 Hi, I’m Ian Ho.
 - 👀 I’m interested in all kinds of game develop.
-- 🌱 I’m currently learning MASM.
+- 🌱 I’m currently learning Algorithms.
 - 💞️ I’m looking forward to make new friends with others.
 - 📫 My email: evilryo0309@gmail.com
 
