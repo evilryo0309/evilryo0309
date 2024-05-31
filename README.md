@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian Ho.
-- 👀 I’m interested in all kinds of game develop.
-- 🌱 I’m currently learning Algorithms.
+- 👀 I’m interested in all kinds of software develop.
 - 💞️ I’m looking forward to make new friends with others.
+- 🌱 I hope to develop a game that can be launched on Steam one day.
 - 📫 My email: evilryo0309@gmail.com
 
 <!---
